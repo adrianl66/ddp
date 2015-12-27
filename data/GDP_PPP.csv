@@ -1,0 +1,214 @@
+CHN,1,China,18017073
+USA,2,United States,17419000
+IND,3,India,7384099
+JPN,4,Japan,4630941
+RUS,5,Russian Federation,3745157
+DEU,6,Germany,3704911
+BRA,7,Brazil,3263867
+IDN,8,Indonesia,2676109
+FRA,9,France,2571970
+GBR,10,United Kingdom,2565070
+MEX,11,Mexico,2145089
+ITA,12,Italy,2128762
+KOR,13,"Korea, Rep.",1732352
+SAU,14,Saudi Arabia,1603764
+CAN,15,Canada,1565813
+ESP,16,Spain,1541156
+TUR,17,Turkey,1457863
+IRN,18,"Iran, Islamic Rep.",1352085
+THA,19,Thailand,1065673
+NGA,20,Nigeria,1049102
+AUS,21,Australia,1031945
+EGY,22,"Egypt, Arab Rep.",943267
+POL,23,Poland,940179
+PAK,24,Pakistan,890315
+NLD,25,Netherlands,803313
+MYS,26,Malaysia,766645
+ZAF,27,South Africa,704521
+PHL,28,Philippines,690894
+COL,29,Colombia,638357
+ARE,30,United Arab Emirates,614897
+VEN,31,"Venezuela, RB",553310
+DZA,32,Algeria,552610
+IRQ,33,Iraq,524174
+VNM,34,Vietnam,510715
+BGD,35,Bangladesh,496758
+BEL,36,Belgium,477949
+CHE,37,Switzerland,468770
+SGP,38,Singapore,452691
+SWE,39,Sweden,437803
+KAZ,40,Kazakhstan,418879
+HKG,41,"Hong Kong SAR, China",398904
+CHL,42,Chile,396923
+AUT,43,Austria,394485
+ROM,44,Romania,386300
+PER,45,Peru,371335
+UKR,46,Ukraine,370534
+NOR,47,Norway,333131
+CZE,48,Czech Republic,319599
+QAT,49,Qatar,305499
+PRT,50,Portugal,295209
+GRC,51,Greece,283555
+KWT,52,Kuwait,274900
+ISR,53,Israel,272991
+MAR,54,Morocco,258296
+DNK,55,Denmark,253309
+HUN,56,Hungary,243786
+CUB,57,Cuba,234193
+LKA,58,Sri Lanka,230770
+IRL,59,Ireland,224893
+FIN,60,Finland,218441
+ECU,61,Ecuador,180843
+BLR,62,Belarus,172211
+UZB,63,Uzbekistan,171416
+AZE,64,Azerbaijan,167061
+OMN,65,Oman,163642
+SDN,66,Sudan,160130
+SVK,67,Slovak Republic,150155
+ETH,68,Ethiopia,145415
+DOM,69,Dominican Republic,138007
+KEN,70,Kenya,132530
+TZA,71,Tanzania,127691
+TUN,72,Tunisia,125753
+PRI,73,Puerto Rico,125630
+BGR,74,Bulgaria,120040
+GTM,75,Guatemala,119384
+GHA,76,Ghana,109334
+LBY,77,Libya,97622
+YEM,78,"Yemen, Rep.",96634
+SRB,79,Serbia,90256
+HRV,80,Croatia,89897
+TKM,81,Turkmenistan,82121
+PAN,82,Panama,80811
+MAC,83,"Macao SAR, China",80773
+JOR,84,Jordan,79616
+LBN,85,Lebanon,79397
+LTU,86,Lithuania,78336
+CIV,87,Côte d'Ivoire,72193
+URY,88,Uruguay,71414
+CRI,89,Costa Rica,70974
+BOL,90,Bolivia,70023
+CMR,91,Cameroon,67686
+UGA,92,Uganda,66908
+NPL,93,Nepal,66893
+BHR,94,Bahrain,61968
+SVN,95,Slovenia,61790
+ZMB,96,Zambia,61377
+AFG,97,Afghanistan,61133
+PRY,98,Paraguay,58392
+ZAR,99,"Congo, Dem. Rep.",55844
+LUX,100,Luxembourg,54307
+SLV,101,El Salvador,51006
+KHM,102,Cambodia,50010
+LVA,103,Latvia,45525
+TTO,104,Trinidad and Tobago,43299
+HND,105,Honduras,39081
+BIH,106,Bosnia and Herzegovina,37761
+BWA,107,Botswana,35739
+LAO,108,Lao PDR,35593
+EST,109,Estonia,35397
+MNG,110,Mongolia,34760
+SEN,111,Senegal,34233
+GEO,112,Georgia,34150
+MDG,113,Madagascar,33928
+GAB,114,Gabon,32792
+MOZ,115,Mozambique,30737
+ALB,116,Albania,29827
+BRN,117,Brunei Darussalam,29712
+TCD,118,Chad,29648
+NIC,119,Nicaragua,29578
+GNQ,120,Equatorial Guinea,28517
+BFA,121,Burkina Faso,28486
+COG,122,"Congo, Rep.",28277
+MLI,123,Mali,27324
+ZWE,124,Zimbabwe,27313
+MKD,125,"Macedonia, FYR",27279
+CYP,126,Cyprus,26368
+ARM,127,Armenia,24259
+JAM,128,Jamaica,24152
+SSD,129,South Sudan,24047
+NAM,130,Namibia,23922
+MUS,131,Mauritius,23435
+TJK,132,Tajikistan,22322
+BEN,133,Benin,21517
+PNG,134,Papua New Guinea,21307
+KGZ,135,Kyrgyz Republic,19382
+WBG,136,West Bank and Gaza,19365
+RWA,137,Rwanda,18833
+HTI,138,Haiti,18309
+NER,139,Niger,17924
+MDA,140,Moldova,17720
+KSV,141,Kosovo,16616
+MRT,142,Mauritania,15528
+GIN,143,Guinea,14992
+ISL,144,Iceland,14186
+MWI,145,Malawi,13717
+SLE,146,Sierra Leone,12417
+MLT,147,Malta,12332
+SWZ,148,Swaziland,10524
+TGO,149,Togo,10166
+BHS,150,"Bahamas, The",8998
+SUR,151,Suriname,8955
+MNE,152,Montenegro,8915
+BDI,153,Burundi,8328
+ERI,154,Eritrea,7814
+FJI,155,Fiji,7794
+BTN,156,Bhutan,5979
+LSO,157,Lesotho,5565
+GUY,158,Guyana,5234
+MDV,159,Maldives,5024
+BRB,160,Barbados,4550
+LBR,161,Liberia,3696
+BMU,162,Bermuda,3403
+CPV,163,Cabo Verde,3350
+GMB,164,"Gambia, The",3072
+BLZ,165,Belize,2960
+DJI,166,Djibouti,2865
+CAF,167,Central African Republic,2855
+TMP,168,Timor-Leste,2699
+GNB,169,Guinea-Bissau,2495
+SYC,170,Seychelles,2415
+ATG,171,Antigua and Barbuda,2007
+LCA,172,St. Lucia,1971
+GRD,173,Grenada,1321
+KNA,174,St. Kitts and Nevis,1277
+SLB,175,Solomon Islands,1219
+VCT,176,St. Vincent and the Grenadines,1173
+WSM,177,Samoa,1111
+COM,178,Comoros,1101
+DMA,179,Dominica,787
+VUT,180,Vanuatu,785
+STP,181,São Tomé and Principe,592
+TON,182,Tonga,550
+FSM,183,"Micronesia, Fed. Sts.",347
+PLW,184,Palau,311
+MHL,185,Marshall Islands,201
+KIR,186,Kiribati,200
+TUV,187,Tuvalu,37
+ABW,189,Aruba,0
+ASM,189,American Samoa,0
+ADO,189,Andorra,0
+AGO,189,Angola,0
+ARG,189,Argentina,0
+CYM,189,Cayman Islands,0
+CHI,189,Channel Islands,0
+CUW,189,Curaçao,0
+FRO,189,Faeroe Islands,0
+PYF,189,French Polynesia,0
+GRL,189,Greenland,0
+GUM,189,Guam,0
+IMY,189,Isle of Man,0
+PRK,189,"Korea, Dem. Rep.",0
+LIE,189,Liechtenstein,0
+MCO,189,Monaco,0
+MMR,189,Myanmar,0
+NCL,189,New Caledonia,0
+NZL,189,New Zealand,0
+MNP,189,Northern Mariana Islands,0
+SMR,189,San Marino,0
+SXM,189,Sint Maarten (Dutch part),0
+SOM,189,Somalia,0
+MAF,189,St. Martin (French part),0
+SYR,189,Syrian Arab Republic,0
+TCA,189,Turks and Caicos Islands,0
+VIR,189,Virgin Islands (U.S.),0
